@@ -1,0 +1,22 @@
+📚 Import the necessary libraries: Pandas, Matplotlib, NumPy, and Seaborn.
+📂 Read the Uber data from the "Uber_data.csv" file.
+📊 Display the Uber data.
+📋 Display the first few rows of the Uber data.
+📈 Display descriptive statistics of the Uber data.
+📝 Display the column names of the Uber data.
+ℹ️ Display information about the Uber data, including data types and non-null values.
+❓ Check for missing values in the Uber data.
+🗑️ Remove duplicate rows from the Uber data.
+🚦 Filter the Uber data to include only rows where the "MILES" column is greater than 10.
+📑 Display the filtered Uber data.
+🔢 Group the Uber data by the "CATEGORY" column and calculate the average "MILES" for each category.
+📏 Display the average miles by category.
+🔢 Sort the Uber data based on the "START_DATE" column.
+📑 Display the sorted Uber data.
+📊 Plot a bar chart showing the count of trips for each "PURPOSE" in the Uber data.
+📌 Set the x-axis label, y-axis label, and title for the bar chart, and display it.
+📅 Convert the "START_DATE" column to datetime format in the Uber data.
+📈 Set the "START_DATE" column as the index and plot a line graph of the "MILES" over time.
+📌 Set the y-axis label and title for the line graph, and display it.
+📦 Create a box plot showing the distribution of "MILES" for each "PURPOSE" in the Uber data using Seaborn.
+📌 Set the x-axis label, y-axis label, and title for the box plot, and display it.
